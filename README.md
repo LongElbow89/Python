@@ -7,3 +7,5 @@ the sorting algorithms include:
  merge sort,
  cocktail sort,
  bogo sort
+
+you only need to install 'matplotlib' to use this program
